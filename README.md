@@ -1,6 +1,6 @@
-# Problemas Inversos: Aplicación a la ecuacion del Calor 1D
+# Problemas Inversos: Aplicación a la ecuación del Calor 1D
 
-En este repositorio encontrará una presentación sobre el analisis de resolver un problema inverso para el caso de la ecuación del calor en una dimensión. 
+En este repositorio encontrará una presentación sobre el análisis de resolver un problema inverso para el caso de la ecuación del calor en una dimensión. 
 
 Se acompaña una notebook en lenguaje Julia con algunos experimentos. Dejamos algunos links de interes sobre este lenguaje de programación. 
 
